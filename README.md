@@ -33,7 +33,7 @@
 
 - 📧 Email: **adharshps000@gmail.com**
 - 📱 Mobile: **+91 8138987626**
-- 💼 LinkedIn: [linkedin.com/in/adharsh-ps](www.linkedin.com/in/adharshzps)
+- 💼 LinkedIn: [linkedin.com/in/adharsh-ps](https://www.linkedin.com/in/adharshzps/)
 <!--
 **AdharshPS/AdharshPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
